@@ -14,8 +14,14 @@
   "contributes": {
     "commands": [
       {
-        "command": "easyCopy.helloWorld",
-        "title": "Hello World"
+        "command": "easyCopy.copy",
+        "title": "copy insert"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "easyCopy.copy",
+        "key": "cmd+c"
       }
     ]
   },
