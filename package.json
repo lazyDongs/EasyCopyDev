@@ -16,6 +16,10 @@
       {
         "command": "easyCopy.copy",
         "title": "copy insert"
+      },
+      {
+        "command": "easyCopy.getData",
+        "title": "copy data source"
       }
     ],
     "keybindings": [
